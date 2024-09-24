@@ -1,0 +1,79 @@
+[
+    {
+        "activity": "reaction",
+        "user": {
+            "name": "Mark Webber",
+            "avatar": "images/assets/avatar-mark-webber.webp"
+        },
+        "postname": "My first tournament today!",
+        "time": "1m ago",
+        "read": false
+    },
+    {
+        "activity": "follow",
+        "user": {
+            "name": "Angela Gray",
+            "avatar": "images/assets/avatar-angela-gray.webp"
+        },
+        "time": "1m ago",
+        "read": false
+    },
+    {
+        "activity": "group",
+        "user": {
+            "name": "Jacob Thompson",
+            "avatar": "images/assets/avatar-jacob-thompson.webp"
+        },
+        "group": {
+            "name": "Chess Club",
+            "status": "joined"
+        },
+        "time": "1 day ago",
+        "read": false
+    },
+    {
+        "activity": "message",
+        "user": {
+            "name": "Rizky Hasanuddin",
+            "avatar": "images/assets/avatar-rizky-hasanuddin.webp"
+        },
+        "message": "Hello, thanks for setting up the Chess Club. I’ve been a member for a few weeks now and I’m already having lots of fun and improving my game.",
+        "time": "5 days ago",
+        "read": true
+    },
+    {
+        "activity": "comment",
+        "user": {
+            "name": "Kimberly Smith",
+            "avatar": "images/assets/avatar-kimberly-smith.webp"
+        },
+        "post": {
+            "src": "images/assets/image-chess.webp"
+        },
+        "time": "1 week ago",
+        "read": true
+    },
+    {
+        "activity": "reaction",
+        "user": {
+            "name": "Nathan Peterson",
+            "avatar": "images/assets/avatar-nathan-peterson.webp"
+        },
+        "postname": "5 end-game strategies to increase your win rate",
+        "time": "2 weeks ago",
+        "read": true
+    },
+    {
+        "activity": "group",
+        "user": {
+            "name": "Anna Kim",
+            "avatar": "images/assets/avatar-anna-kim.webp"
+        },
+        "group": {
+            "name": "Chess Club",
+            "status": "left"
+        },
+        "time": "2 weeks ago",
+        "read": true
+    }
+]
